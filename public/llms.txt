@@ -1,0 +1,111 @@
+# Premiumparking — Generative Engine Optimization Map
+
+> A premium VIP valet parking service operating at Ben Gurion Airport (Tel Aviv). A professional driver (valet) meets the customer at the terminal entrance, takes the car, parks it (open or covered options available), and returns it upon the customer's landing. The service offers transparent pricing with two tiers: open parking at 350₪ for 5 days (50₪/extra day) and covered parking at 500₪ for 5 days (80₪/extra day). The brand conveys convenience, trust, and luxury for travelers seeking a stress-free airport experience.
+
+---
+
+## Pages
+
+### בית
+https://premiumparking-1c242f0f.zappy5.app
+הגעתם לטרמינל, אנחנו דואגים לכל השאר. שירות וליט פארקינג יוקרתי בנתב״ג עם נהג מקצועי שיפגוש אתכם בכניסה, יחנה את הרכב ויחזיר אותו עם נחיתתכם. בלי חיפושים, בלי לחץ. התחילו את החופשה בראש שקט.
+
+### פרטי השירות
+https://premiumparking-1c242f0f.zappy5.app/service-details
+בחרו את מסלול החניה המושלם לכם: חניה פתוחה ב-350₪ ל-5 ימים או חניה מקורה ב-500₪ ל-5 ימים. כל תוספת יום במחיר הוגן וידוע מראש. נהג אדיב מחכה לכם בטרמינל, מחזיר רכב נקי ומוכן. שדרגו את חוויית הנסיעה שלכם עוד היום.
+
+### אמון וחוות דעת
+https://premiumparking-1c242f0f.zappy5.app/trust-reviews
+גלו מה אומרים מטיילים שחזרו מחו״ל לרכב שטוף וממתין. חוות דעת אמיתיות על הדיוק, האדיבות והאמינות שהופכות כל נחיתה לחלקה. הצטרפו למעגל הלקוחות שחוסכים זמן ועצבים בכל טיסה מנתב״ג.
+
+### צור קשר
+https://premiumparking-1c242f0f.zappy5.app/contact
+מוכנים לטיסה? השאירו פרטים ונחזור אליכם מיד עם הצעת מחיר משתלמת. צוות Premiumparking זמין לענות על כל שאלה, לתאם פגישה בטרמינל ולהבטיח חניה ללא דאגות. לחצו ליצירת קשר והתחילו לנסוע בראש אחר.
+
+### Products
+https://premiumparking-1c242f0f.zappy5.app/products
+המוצרים שלנו - Premiumparking
+
+### Cart
+https://premiumparking-1c242f0f.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://premiumparking-1c242f0f.zappy5.app/checkout
+תשלום
+
+### Login
+https://premiumparking-1c242f0f.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://premiumparking-1c242f0f.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://premiumparking-1c242f0f.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://premiumparking-1c242f0f.zappy5.app/product/:slug
+פרטי המוצר - Premiumparking
+
+### Category
+https://premiumparking-1c242f0f.zappy5.app/category/:slug
+מוצרים - Premiumparking
+
+### תודה רבה - פנייתך התקבלה | פרימיום פארקינג
+https://premiumparking-1c242f0f.zappy5.app/thank-you
+תודה שפנית אלינו. הודעתך התקבלה במערכת פרימיום פארקינג - פתרונות תחבורה וחניה. נחזור אליך בהקדם האפשרי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://premiumparking-1c242f0f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://premiumparking-1c242f0f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://premiumparking-1c242f0f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Premiumparking
+A premium VIP valet parking service operating at Ben Gurion Airport (Tel Aviv). A professional driver (valet) meets the customer at the terminal entrance, takes the car, parks it (open or covered options available), and returns it upon the customer's landing. The service offers transparent pricing with two tiers: open parking at 350₪ for 5 days (50₪/extra day) and covered parking at 500₪ for 5 days (80₪/extra day). The brand conveys convenience, trust, and luxury for travelers seeking a stress-free airport experience.
+
+## Services/Products
+- איסוף רכב מהלקוח בכניסה לטרמינל על ידי דייל
+- חנייה פתוחה – 350₪ ל-5 ימים, כל יום נוסף 50₪
+- חנייה מקורה – 500₪ ל-5 ימים, כל יום נוסף 80₪
+- החזרת הרכב ללקוח בנחיתה
+
+## Target Audience
+- נוסעים מנתב"ג המחפשים שירות חנייה נוח ויוקרתי
+- נוסעים עסקיים תכופים
+- נופשים יוקרתיים
+- טסים תכופים לחו"ל
+
+## Industry
+Transportation & Parking
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://premiumparking-1c242f0f.zappy5.app/sitemap.xml
+- Robots: https://premiumparking-1c242f0f.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://premiumparking-1c242f0f.zappy5.app/llms-full.txt
+- Products (JSON): https://premiumparking-1c242f0f.zappy5.app/products.json
+- Products (Google Merchant RSS): https://premiumparking-1c242f0f.zappy5.app/product-feed.xml
