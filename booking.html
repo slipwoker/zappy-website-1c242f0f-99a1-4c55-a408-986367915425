@@ -955,38 +955,111 @@ img[data-no-hero-position] { position: static !important; }
 
 </script>
   
-  <main id="main" class="blog-page ai-generated-page"><section class="section" id="thank-you-hero" style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; min-height: 80vh; padding: clamp(48px, 10vh, 96px) 20px; box-sizing: border-box;; position: relative; overflow: hidden;" data-zappy-section="true">
-    <div style="max-width: 640px; margin-left: auto; margin-right: auto; width: 100%;">
-      
-      <div style="margin-bottom: 24px; color: #C8B8A6 !important; display: flex; justify-content: center;">
-        <svg width="88" height="88" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
-          <polyline points="22 4 12 14.01 9 11.01"></polyline>
-        </svg>
-      </div>
+  <main id="main"><section class="booking-section" dir="rtl" style="background-color: #2B2926; min-height: 100vh; padding: 60px 20px; box-sizing: border-box; display: flex; align-items: center; justify-content: center;">
+  <div style="max-width: 720px; width: 100%; margin: 0 auto;">
+    
+    <div style="text-align: center; margin-bottom: 40px;">
+      <h1 style="color: #F3EBDD; font-size: clamp(28px, 5vw, 42px); font-weight: 800; margin: 0 0 12px 0;">הזמנת חנייה בנתב״ג</h1>
+      <p style="color: #C8B8A6; font-size: 18px; margin: 0;">מלאו את הפרטים ונחזור אליכם לאישור ההזמנה תוך דקות</p>
+    </div>
 
-      <h1 style="color: #C8B8A6 !important; font-size: clamp(36px, 6vw, 56px); margin-bottom: 16px; font-weight: 800; margin-top: 0; line-height: 1.1;">תודה רבה!</h1>
-      
-      <h2 style="color: #F3EBDD !important; font-size: clamp(20px, 3vw, 26px); margin-bottom: 48px; font-weight: 400; margin-top: 0; opacity: 0.9;">הודעתך התקבלה בהצלחה</h2>
+    <form id="booking-form" style="background: #F3EBDD; border-radius: 16px; padding: 40px 32px; box-shadow: 0 12px 40px rgba(0,0,0,0.3);">
 
-      <div style="background-color: #F3EBDD !important; padding: 32px 24px; border-radius: 12px; margin: 0 auto 48px auto; max-width: 340px; box-shadow: 0 8px 30px rgba(0,0,0,0.15); border: 2px solid #C8B8A6; text-align: center;">
-        <p style="font-size: 15px; margin-bottom: 12px; color: #7C7166 !important; font-weight: 600; margin-top: 0; text-transform: uppercase; letter-spacing: 0.5px;">מספר הפנייה שלך:</p>
-        <div style="font-size: 38px; font-weight: 700; color: #2B2926 !important; letter-spacing: 3px; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;">
-          <span id="ticket-number-display">---</span>
+      <div style="margin-bottom: 32px;">
+        <label style="display: block; color: #2B2926; font-weight: 700; font-size: 17px; margin-bottom: 12px;">בחרו מסלול חנייה</label>
+        <div style="--zappy-grid-cols: 1fr 1fr; display: grid; grid-template-columns: 1fr 1fr; gap: 16px;" data-zappy-explicit-columns="true">
+          <label style="display: block; cursor: pointer;">
+            <input type="radio" name="plan" value="open" checked style="display: none;">
+            <div class="plan-card" data-plan="open" style="background: #fff; border: 2px solid #C8B8A6; border-radius: 12px; padding: 20px; text-align: center; transition: all 0.3s ease;">
+              <div style="font-size: 20px; font-weight: 800; color: #2B2926; margin-bottom: 4px;">חנייה פתוחה</div>
+              <div style="font-size: 28px; font-weight: 800; color: #C8B8A6;">₪350</div>
+              <div style="font-size: 14px; color: #7C7166;">ל-5 ימים</div>
+            </div>
+          </label>
+          <label style="display: block; cursor: pointer;">
+            <input type="radio" name="plan" value="covered" style="display: none;">
+            <div class="plan-card" data-plan="covered" style="background: #fff; border: 2px solid #DDD0C0; border-radius: 12px; padding: 20px; text-align: center; transition: all 0.3s ease;">
+              <div style="font-size: 20px; font-weight: 800; color: #2B2926; margin-bottom: 4px;">חנייה מקורה</div>
+              <div style="font-size: 28px; font-weight: 800; color: #6D7562;">₪500</div>
+              <div style="font-size: 14px; color: #7C7166;">ל-5 ימים</div>
+            </div>
+          </label>
         </div>
       </div>
 
-      <p style="font-size: 18px; line-height: 1.7; color: #F3EBDD !important; margin-bottom: 56px; margin-top: 0; font-weight: 400; max-width: 540px; margin-left: auto; margin-right: auto;">
-        קיבלנו את פנייתך לצוות פרימיום פארקינג - המומחים לשירותי תחבורה וחניה. נציג מטעמנו יעבור על כל הפרטים ויחזור אליך בהקדם האפשרי עם מענה מקצועי.
-      </p>
-
-      <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-        <a href="/" class="btn" style="background-color: #C8B8A6; color: #2B2926 !important; padding: 16px 36px; border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 16px; transition: all 0.3s ease; display: inline-flex; align-items: center; justify-content: center; min-width: 220px; border: 2px solid #C8B8A6; box-shadow: 0 4px 15px rgba(200, 184, 166, 0.2);">חזרה לדף הבית</a>
-        <a href="/contact" class="btn" style="background-color: transparent; color: #C8B8A6 !important; padding: 16px 36px; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 16px; transition: all 0.3s ease; display: inline-flex; align-items: center; justify-content: center; min-width: 220px; border: 2px solid #C8B8A6;">צור קשר שוב</a>
+      <div style="--zappy-grid-cols: 1fr 1fr; display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 24px;" data-zappy-explicit-columns="true">
+        <div>
+          <label style="display: block; color: #2B2926; font-weight: 700; font-size: 15px; margin-bottom: 6px;">תאריך הגעה</label>
+          <input type="date" name="arrival_date" required style="width: 100%; padding: 14px; border: 2px solid #DDD0C0; border-radius: 8px; font-size: 16px; background: #fff; color: #2B2926; box-sizing: border-box; font-family: inherit;">
+        </div>
+        <div>
+          <label style="display: block; color: #2B2926; font-weight: 700; font-size: 15px; margin-bottom: 6px;">שעת הגעה</label>
+          <input type="time" name="arrival_time" required style="width: 100%; padding: 14px; border: 2px solid #DDD0C0; border-radius: 8px; font-size: 16px; background: #fff; color: #2B2926; box-sizing: border-box; font-family: inherit;">
+        </div>
+        <div>
+          <label style="display: block; color: #2B2926; font-weight: 700; font-size: 15px; margin-bottom: 6px;">תאריך חזרה</label>
+          <input type="date" name="return_date" required style="width: 100%; padding: 14px; border: 2px solid #DDD0C0; border-radius: 8px; font-size: 16px; background: #fff; color: #2B2926; box-sizing: border-box; font-family: inherit;">
+        </div>
+        <div>
+          <label style="display: block; color: #2B2926; font-weight: 700; font-size: 15px; margin-bottom: 6px;">שעת חזרה משוערת</label>
+          <input type="time" name="return_time" required style="width: 100%; padding: 14px; border: 2px solid #DDD0C0; border-radius: 8px; font-size: 16px; background: #fff; color: #2B2926; box-sizing: border-box; font-family: inherit;">
+        </div>
       </div>
 
-    </div>
-  </section></main>
+      <div style="margin-bottom: 24px;">
+        <label style="display: block; color: #2B2926; font-weight: 700; font-size: 15px; margin-bottom: 6px;">מספר טרמינל</label>
+        <select name="terminal" style="width: 100%; padding: 14px; border: 2px solid #DDD0C0; border-radius: 8px; font-size: 16px; background: #fff; color: #2B2926; box-sizing: border-box; font-family: inherit;">
+          <option value="">בחרו טרמינל</option>
+          <option value="1">טרמינל 1</option>
+          <option value="3">טרמינל 3</option>
+        </select>
+      </div>
+
+      <div style="border-top: 2px solid #DDD0C0; padding-top: 24px; margin-bottom: 24px;">
+        <h3 style="color: #2B2926; font-size: 18px; font-weight: 700; margin: 0 0 16px 0;">פרטי לקוח</h3>
+        <div style="--zappy-grid-cols: 1fr 1fr; display: grid; grid-template-columns: 1fr 1fr; gap: 20px;" data-zappy-explicit-columns="true">
+          <div>
+            <label style="display: block; color: #2B2926; font-weight: 700; font-size: 15px; margin-bottom: 6px;">שם מלא</label>
+            <input type="text" name="full_name" required placeholder="ישראל ישראלי" style="width: 100%; padding: 14px; border: 2px solid #DDD0C0; border-radius: 8px; font-size: 16px; background: #fff; color: #2B2926; box-sizing: border-box; font-family: inherit;">
+          </div>
+          <div>
+            <label style="display: block; color: #2B2926; font-weight: 700; font-size: 15px; margin-bottom: 6px;">טלפון</label>
+            <input type="tel" name="phone" required placeholder="050-0000000" style="width: 100%; padding: 14px; border: 2px solid #DDD0C0; border-radius: 8px; font-size: 16px; background: #fff; color: #2B2926; box-sizing: border-box; font-family: inherit;">
+          </div>
+          <div style="grid-column: 1 / -1;">
+            <label style="display: block; color: #2B2926; font-weight: 700; font-size: 15px; margin-bottom: 6px;">אימייל</label>
+            <input type="email" name="email" required placeholder="israel@example.com" style="width: 100%; padding: 14px; border: 2px solid #DDD0C0; border-radius: 8px; font-size: 16px; background: #fff; color: #2B2926; box-sizing: border-box; font-family: inherit;">
+          </div>
+        </div>
+      </div>
+
+      <div style="margin-bottom: 24px;">
+        <label style="display: block; color: #2B2926; font-weight: 700; font-size: 15px; margin-bottom: 6px;">הערות נוספות (אופציונלי)</label>
+        <textarea name="notes" rows="3" placeholder="פרטי רכב, בקשות מיוחדות..." style="width: 100%; padding: 14px; border: 2px solid #DDD0C0; border-radius: 8px; font-size: 16px; background: #fff; color: #2B2926; box-sizing: border-box; font-family: inherit; resize: vertical;"></textarea>
+      </div>
+
+      <button type="submit" style="width: 100%; padding: 18px; background: #C8B8A6; color: #2B2926; border: none; border-radius: 10px; font-size: 20px; font-weight: 700; cursor: pointer; transition: all 0.3s ease; font-family: inherit; box-shadow: 0 4px 15px rgba(200,184,166,0.3);">שליחת הזמנה</button>
+
+      <p style="text-align: center; color: #7C7166; font-size: 13px; margin: 16px 0 0 0;">לאחר שליחת ההזמנה נציג יחזור אליכם תוך שעה לאישור סופי. אין חיוב מיידי.</p>
+
+    </form>
+
+  </div>
+</section>
+
+<script>
+(function(){
+  const cards = document.querySelectorAll('.plan-card');
+  const radios = document.querySelectorAll('input[name="plan"]');
+  cards.forEach(function(card, i){
+    card.addEventListener('click', function(){
+      cards.forEach(function(c){ c.style.borderColor = '#DDD0C0'; });
+      card.style.borderColor = '#C8B8A6';
+      radios[i].checked = true;
+    });
+  });
+})();
+</script></main>
   
   <footer class="site-footer">
   <div class="footer-container">
