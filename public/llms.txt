@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://premiumparking-1c242f0f.zappy5.app
+https://example.com
 הגעתם לטרמינל, אנחנו דואגים לכל השאר. שירות וליט פארקינג יוקרתי בנתב״ג עם נהג מקצועי שיפגוש אתכם בכניסה, יחנה את הרכב ויחזיר אותו עם נחיתתכם. בלי חיפושים, בלי לחץ. התחילו את החופשה בראש שקט.
 
 ### פרטי השירות
-https://premiumparking-1c242f0f.zappy5.app/service-details
+https://example.com/service-details
 בחרו את מסלול החניה המושלם לכם: חניה פתוחה ב-350₪ ל-5 ימים או חניה מקורה ב-500₪ ל-5 ימים. כל תוספת יום במחיר הוגן וידוע מראש. נהג אדיב מחכה לכם בטרמינל, מחזיר רכב נקי ומוכן. שדרגו את חוויית הנסיעה שלכם עוד היום.
 
 ### אמון וחוות דעת
-https://premiumparking-1c242f0f.zappy5.app/trust-reviews
+https://example.com/trust-reviews
 גלו מה אומרים מטיילים שחזרו מחו״ל לרכב שטוף וממתין. חוות דעת אמיתיות על הדיוק, האדיבות והאמינות שהופכות כל נחיתה לחלקה. הצטרפו למעגל הלקוחות שחוסכים זמן ועצבים בכל טיסה מנתב״ג.
 
 ### צור קשר
-https://premiumparking-1c242f0f.zappy5.app/contact
+https://example.com/contact
 מוכנים לטיסה? השאירו פרטים ונחזור אליכם מיד עם הצעת מחיר משתלמת. צוות Premiumparking זמין לענות על כל שאלה, לתאם פגישה בטרמינל ולהבטיח חניה ללא דאגות. לחצו ליצירת קשר והתחילו לנסוע בראש אחר.
 
 ### Products
-https://premiumparking-1c242f0f.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Premiumparking
 
 ### Cart
-https://premiumparking-1c242f0f.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://premiumparking-1c242f0f.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://premiumparking-1c242f0f.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://premiumparking-1c242f0f.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://premiumparking-1c242f0f.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://premiumparking-1c242f0f.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Premiumparking
 
 ### Category
-https://premiumparking-1c242f0f.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Premiumparking
 
 ### תודה רבה - פנייתך התקבלה | פרימיום פארקינג
-https://premiumparking-1c242f0f.zappy5.app/thank-you
+https://example.com/thank-you
 תודה שפנית אלינו. הודעתך התקבלה במערכת פרימיום פארקינג - פתרונות תחבורה וחניה. נחזור אליך בהקדם האפשרי.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://premiumparking-1c242f0f.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://premiumparking-1c242f0f.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://premiumparking-1c242f0f.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -104,8 +104,8 @@ Transportation & Parking
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://premiumparking-1c242f0f.zappy5.app/sitemap.xml
-- Robots: https://premiumparking-1c242f0f.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://premiumparking-1c242f0f.zappy5.app/llms-full.txt
-- Products (JSON): https://premiumparking-1c242f0f.zappy5.app/products.json
-- Products (Google Merchant RSS): https://premiumparking-1c242f0f.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
