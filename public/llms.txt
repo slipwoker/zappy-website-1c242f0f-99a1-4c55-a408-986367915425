@@ -54,8 +54,8 @@ https://example.com/product/:slug
 https://example.com/category/:slug
 מוצרים - Premiumparking
 
-### תודה רבה - פנייתך התקבלה | פרימיום פארקינג
-https://example.com/thank-you
+### הזמנת חנייה
+https://example.com/booking
 תודה שפנית אלינו. הודעתך התקבלה במערכת פרימיום פארקינג - פתרונות תחבורה וחניה. נחזור אליך בהקדם האפשרי.
 
 ## Legal & Policy
